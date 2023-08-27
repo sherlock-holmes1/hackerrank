@@ -1,0 +1,15 @@
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/bin/Debug/net7.0/02.Mini-MaxSum
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/bin/Debug/net7.0/02.Mini-MaxSum.deps.json
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/bin/Debug/net7.0/02.Mini-MaxSum.runtimeconfig.json
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/bin/Debug/net7.0/02.Mini-MaxSum.dll
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/bin/Debug/net7.0/02.Mini-MaxSum.pdb
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.csproj.AssemblyReference.cache
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.AssemblyInfoInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.AssemblyInfo.cs
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.csproj.CoreCompileInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.dll
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/refint/02.Mini-MaxSum.dll
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.pdb
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/02.Mini-MaxSum.genruntimeconfig.cache
+/home/basil/coding_challenges/hackerrank/week1/02.Mini-MaxSum/obj/Debug/net7.0/ref/02.Mini-MaxSum.dll
