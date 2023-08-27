@@ -1,0 +1,15 @@
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/bin/Debug/net7.0/03.TimeConversion
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/bin/Debug/net7.0/03.TimeConversion.deps.json
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/bin/Debug/net7.0/03.TimeConversion.runtimeconfig.json
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/bin/Debug/net7.0/03.TimeConversion.dll
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/bin/Debug/net7.0/03.TimeConversion.pdb
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.csproj.AssemblyReference.cache
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.AssemblyInfoInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.AssemblyInfo.cs
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.csproj.CoreCompileInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.dll
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/refint/03.TimeConversion.dll
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.pdb
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/03.TimeConversion.genruntimeconfig.cache
+/home/basil/coding_challenges/hackerrank/week1/03.TimeConversion/obj/Debug/net7.0/ref/03.TimeConversion.dll
