@@ -1,0 +1,15 @@
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.csproj.AssemblyReference.cache
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.GeneratedMSBuildEditorConfig.editorconfig
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.AssemblyInfoInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.AssemblyInfo.cs
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.csproj.CoreCompileInputs.cache
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/bin/Debug/net7.0/01.plus_minus
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/bin/Debug/net7.0/01.plus_minus.deps.json
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/bin/Debug/net7.0/01.plus_minus.runtimeconfig.json
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/bin/Debug/net7.0/01.plus_minus.dll
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/bin/Debug/net7.0/01.plus_minus.pdb
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.dll
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/refint/01.plus_minus.dll
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.pdb
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/01.plus_minus.genruntimeconfig.cache
+/home/basil/coding_challenges/hackerrank/week1/01.plus_minus/obj/Debug/net7.0/ref/01.plus_minus.dll
